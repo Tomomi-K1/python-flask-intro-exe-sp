@@ -2,7 +2,7 @@
 
 def add(a, b):
     """Add a and b."""
-    
+        
     return a + b
 
 def sub(a, b):
